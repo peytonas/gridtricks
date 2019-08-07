@@ -5,8 +5,37 @@
 
 .card-white {
   background: white;
-  padding: 30px;
+  padding: 8px;
   box-shadow: 1px 1px 2px #e7e7e7;
   border-radius: 4px;
-  margin: 20px 50px;
+  margin: 32px 97px;
+  color: black;
 }
+
+.top-row {
+  height: 80px;
+}
+
+.top-height {
+  height: 10px;
+}
+
+.grid-height {
+  height: 50px;
+  padding-top: 15px;
+}
+
+.blue-small {
+  height: 30px;
+  padding-top: 10px;
+}
+
+.blue-big {
+  height: 200px;
+  padding-top: 5px;
+}
+
+.bottom-bg {
+  background-color: #EEEFF1;
+}
+  
